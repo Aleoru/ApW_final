@@ -1,0 +1,11 @@
+ 
+header {
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(img/cpu4bit.png);
+  background-position: center;
+  text-align: center;
+  height: 100vh;
+  color: #ffffff;
+  padding: 40vh 0;
+  background-attachment: fixed;
+}
